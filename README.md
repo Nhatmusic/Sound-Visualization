@@ -2,7 +2,7 @@
 # Real-time Sound Visualization and Classification
 ![alt text](https://github.com/iDataVisualizationLab/music/blob/master/Master%20Thesis/image/Realtime-tsne.gif)
 ## Demo:
-- https://idatavisualizationlab.github.io/Sound-Visualization
+- https://nhatmusic.github.io/Sound-Visualization/
 - Video Link: https://www.youtube.com/watch?v=rWSKUFMjB4o&feature=youtu.be
 ## Main Features:
 The project focus mainly on the following issue:
